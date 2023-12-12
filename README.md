@@ -16,7 +16,6 @@ This is the ruleset that I am currently using for my BG3 Nuzlocke Act 1 playthro
 	- True Soul Gut
 	- Minthara
 	- Dror Ragzlin
-	- Kagha
 	- Owlbear
 	- Auntie Ethel
 	- Phase Spider Matriarch
